@@ -2,15 +2,16 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Service Learning Program
+permalink: projects
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-08-30
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Voluteer
+  - Kids
+  - Social community
+summary: I participated a volunteer program in Palolo Pipeline during the summer in 2017.
+
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +21,12 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Community service is a common service for people to take care of each other and volunteer. To get started with my service learning, I participated in the Palolo Pipeline program. My service learning took place in the Palolo Service Learning Center. When I first started my service learning, I didn’t know what to expect. I felt nervous and anxious, because I felt that if it went bad, I wouldn’t be able to stay in the program anymore. But it ended up being the exact opposite. I found my service learning very beneficial. My duties were to watch the kids who participated in this program, play with them and help them with their homework. I really enjoyed interacting with the different kinds of kids and learn their culture. I think this would be a great opportunity for me to get involved with an institution that functions to serve and support our community. Social ties hold people together and are able to support and take care of the young kidsI was happy I was able to help them facilitate the events and activities that provide hope and comfort to many families and children in the area.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
 
-Here is some code that illustrates how we read values from the line sensors:
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at the website: https://servicelearning.chaminade.edu/find-a-project/palolo-ohana-learning-center/.
 
 
 
