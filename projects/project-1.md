@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: Palolo-Pic1.jpg
 title: Service Learning Program
 permalink: projects
 # All dates must be YYYY-MM-DD format!
