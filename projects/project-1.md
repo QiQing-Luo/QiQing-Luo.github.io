@@ -11,7 +11,6 @@ labels:
   - Kids
   - Social community
 summary: I participated a volunteer program in Palolo Pipeline during the summer in 2017.
-
 ---
 
 <div class="ui small rounded images">
