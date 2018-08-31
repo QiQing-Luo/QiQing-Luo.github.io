@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/work.jpg
+title: Work experience
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
@@ -14,12 +14,7 @@ labels:
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/work.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Within these several years, I have gained diverse perspectives and knowledge from different career fields. One of my job was as a sales promoter throughout the whole store. I gained many skills of communication and problem solving by helping and greeting the many customers who came into the store. Mostly, my duties are to introduce the product to the customers and explain to them when they have any questions. The staffs I worked with were friendly and nice, we worked in a peace environment. Sometimes, we helped each other and we shared lots of stories. This was one of my good work experience.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
