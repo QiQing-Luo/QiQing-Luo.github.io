@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Palolo-Pic1.jpg
 title: Service Learning Program
-permalink: projects
+permalink: project1
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
