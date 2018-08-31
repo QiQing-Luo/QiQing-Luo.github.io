@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/event.jpg
 title: Social event
-permalink: projects
+permalink: project-3
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
