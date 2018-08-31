@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/work.jpg
 title: Work experience
-permalink: projects
+permalink: project-2
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
