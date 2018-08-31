@@ -8,6 +8,8 @@ permalink: projects
 date: 2018-08-30
 labels:
   - Chinese Festival
+  - UH
+  - Cooperations
 summary: I participated in a Chinese Mid-Autumn Festival celebration in UH.
 ---
 
