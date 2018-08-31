@@ -3,15 +3,14 @@ layout: project
 type: project
 image: images/work.jpg
 title: Work experience
-permalink: projects/vacay
+permalink: projects
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Sales
+  - Work experiences
+  - Communication
+summary: One of my work experiences was working at a sales sotre as sales promoter.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/work.jpg">
