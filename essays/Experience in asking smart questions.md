@@ -19,4 +19,5 @@ From this experience, I form a deeper understanding of what questions consider t
 
 
 More info about the example 1: https://stackoverflow.com/questions/51169779/maddhatter-calendar-view-not-being-displayed
+
 More info about the example 2: https://stackoverflow.com/questions/2668678/importing-csv-with-line-breaks-in-excel-2007
