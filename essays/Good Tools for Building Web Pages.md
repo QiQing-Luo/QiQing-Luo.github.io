@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Good Tools for Building Webpages
+title: Good Tools for Building Web Pages
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-04
 labels:
