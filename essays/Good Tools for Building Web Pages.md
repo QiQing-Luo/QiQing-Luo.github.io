@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: Good Tools for Building Webpages
+# All dates must be YYYY-MM-DD format!
+date: 2018-10-04
+labels:
+  - Coding standard
+  - Semantic UI
+  - Programming
+---
 
 What's special about UI frameworks? I have been thinking about this for a while. From the last week's module, we learned how to build web pages by using HTML and CSS for the BrowserHistory WOD. There are lots of different functions and codes to help us build the web pages. The HTML is for us to put the content of the website, and the CSS is for us to style and design our webpage by changing the font and color etc. We can easily build any web pages that we want. But why do we need to learn UI frameworks? As stated, UI frameworks are not simple, and they can be almost as complicated to learn as a new programming language. Why can we just keep using raw HTML and CSS to build web pages? The answer is simple, UI frameworks just make our life easier and more convenient. 
 
