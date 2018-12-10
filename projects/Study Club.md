@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Palolo-Pic1.jpg
+image: images/landing.png
 title: Study Club
 permalink: study-club
 # All dates must be YYYY-MM-DD format!
@@ -11,7 +11,7 @@ labels:
   - ICS 314
   - Team Work
   - Software Engineering
-summary: The team project that I worked on was called Study Club in fall 2018.
+summary: Study Club is an application for UHM ICS students to self-organize face-to-face study groups around a course and/or specific homework or project topic.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/landing.png">
