@@ -12,6 +12,8 @@ labels:
   - Team Work
   - Software Engineering
 summary: Study Club is an application for UHM ICS students to self-organize face-to-face study groups around a course and/or specific homework or project topic.
+---
+
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/landing.png">
