@@ -15,7 +15,7 @@ summary: Study Club is an application for UHM ICS students to self-organize face
 ---
 
 
-<div class="ui large rounded images">
+<div class="ui massive rounded images">
   <img class="ui image" src="../images/landing.png">
 </div>
 
