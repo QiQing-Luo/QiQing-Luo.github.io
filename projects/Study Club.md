@@ -17,12 +17,16 @@ summary: Study Club is an application for UHM ICS students to self-organize face
   <img class="ui image" src="../images/landing.png">
 </div>
 
-Community service is a common service for people to take care of each other and volunteer. To get started with my service learning, I participated in the Palolo Pipeline program. My service learning took place in the Palolo Service Learning Center. When I first started my service learning, I didn’t know what to expect. I felt nervous and anxious, because I felt that if it went bad, I wouldn’t be able to stay in the program anymore. But it ended up being the exact opposite. I found my service learning very beneficial. My duties were to watch the kids who participated in this program, play with them and help them with their homework. I really enjoyed interacting with the different kinds of kids and learn their culture. I think this would be a great opportunity for me to get involved with an institution that functions to serve and support our community. Social ties hold people together and are able to support and take care of the young kidsI was happy I was able to help them facilitate the events and activities that provide hope and comfort to many families and children in the area.
+ICS students often spend more time than they need on their homework and don’t learn the material as effectively as they could, because they study alone and do not leverage the power of face-to-face study groups with peer mentors.
 
+Our application offers the opportunity for students to work on their homework with peers. When people enter our website, they can choose to be a tutor or tutee. Besides, we offer differnt learning style that students can choose. For example, we have one to one, online, and group session. Students can work with people that have differnt cultural backgrounds. 
+
+For this team project, I am responsible for the landing page and user profile page. I spent a lot of time to design our landing page, which could make it look well-organize and clean. And then, I created the user profile page for users to update their profile information. I also design the outlook of our application. 
 
 
 
 View us: [Study Club](http://studyclub2.meteorapp.com/#/) online
+
 View us: [Study Club](https://studyclub2018.github.io/) on Github
 
 
