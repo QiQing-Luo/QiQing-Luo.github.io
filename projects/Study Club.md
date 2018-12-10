@@ -17,9 +17,11 @@ summary: Study Club is an application for UHM ICS students to self-organize face
 
 ICS students often spend more time than they need on their homework and don’t learn the material as effectively as they could, because they study alone and do not leverage the power of face-to-face study groups with peer mentors.
 
+
 <div class="ui massive rounded images">
   <img class="ui image" src="../images/landing.png">
 </div>
+
 
 Our application offers the opportunity for students to work on their homework with peers. When people enter our website, they can choose to be a tutor or tutee. Besides, we offer differnt learning style that students can choose. For example, we have one to one, online, and group session. Students can work with people that have differnt cultural backgrounds. 
 
